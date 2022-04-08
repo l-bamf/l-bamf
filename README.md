@@ -9,10 +9,10 @@ This github account is for workig on my personal projects. For enquiries please 
 
 ## picoCTF 2022
 
-I am currently participating in the [picoCTF 2022 Hacking Competition](https://picoctf.org/competitions/2022-spring), in a group with some of my other engineering friends.
-This competition is teaching me the basics of cybersecurity and extending my knowledge of tools such as the linux shell.
+I participated in the [picoCTF 2022 Hacking Competition](https://picoctf.org/competitions/2022-spring), in a group with some of my other engineering friends.
+This competition taught me the basics of cybersecurity and extended my knowledge of tools in the linux shell such as gdb and sleuthkit.
 
-## [Quick-Carbs](https://github.com/l-bamf/l-bamf/blob/main/quick-carbs.md)
+## [Drinktionary](https://github.com/l-bamf/l-bamf/blob/main/drinktionary.md)
 
 I am currently developing an Android application to help people quickly find the carbohydrate serving of pre-packaged alcoholic beverages.
 This an issue because in Australia alcoholic drinks are exempt from displaying the nutritional content on the can or bottle unlike other, non-alcoholic, drinks.
