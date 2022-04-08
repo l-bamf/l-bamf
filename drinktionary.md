@@ -1,4 +1,4 @@
-# Quick Carbs Project Documentation
+# Drinktionary Project Documentation
 
 This markdown file is a loose documentation of my experiences working on this project. What I have learnt and accomplished.
 
