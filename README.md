@@ -8,6 +8,10 @@ My email dedicated to my personal projects is lewis.j.bamford@gmail.com. For stu
 
 # Projects
 
+## [AutomaTTim](https://github.com/l-bamf/automaTTim)
+
+Automating the process of entering TimTam's promotional competition and using this automation to exploit better odds during certain parts of the day.
+
 ## AskPCOS
 
 My final-year project ([FIT4002](https://handbook.monash.edu/2022/units/FIT4002)) is developing a goal-setting application which helps women with PCOS improve their physical and mental health.
@@ -21,13 +25,5 @@ I participated in the [picoCTF 2022 Hacking Competition](https://picoctf.org/com
 This competition taught me the basics of cybersecurity and extended my knowledge of tools in the linux shell such as gdb and sleuthkit.
 [Our team](https://play.picoctf.org/teams/3186) placed 2599 of 7794 point-scoring teams.
 
-## [Drinktionary](https://github.com/l-bamf/l-bamf/blob/main/drinktionary.md)
 
-I am currently developing an Android application to help people quickly find the carbohydrate serving of pre-packaged alcoholic beverages.
-This an issue because in Australia alcoholic drinks are exempt from displaying the nutritional content on the can or bottle unlike other, non-alcoholic, drinks.
-This information is accessible online through the manufacturers themselves and third party websites such as [CalorieKing](https://www.calorieking.com/au/en/), but this is a relatively slow process with many irrelevant details the user doesn't need. My goal is to make the user experience quicker, and with less overhead.
-
-## [AutomaTTim](https://github.com/l-bamf/automaTTim)
-
-Automating the process of entering TimTam's promotional competition and using this automation to exploit better odds during certain parts of the day
 
