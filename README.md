@@ -1,8 +1,8 @@
 
 # Personal Details
 
-My name is Lewis Bamford and I am currently a fourth and final-year software engineering student at Monash University.
-I will be starting a full-time graduate position next year with [Leidos Australia](https://www.leidos.com/company/global/australia).
+My name is Lewis Bamford and I am a full-time graduate software engineer at [Leidos Australia](https://www.leidos.com/company/global/australia).
+I previously studied a Bachelor of Software Engineering (Honours) at Monash University.
 This repository is for documenting my personal and university projects and giving insight into my experience.
 I haven't included source code for some projects as it isn't mine to share, and I don't believe many people will be interested in the raw implementation.
 My email dedicated to my personal projects is lewis.j.bamford@gmail.com.
@@ -11,7 +11,7 @@ My email dedicated to my personal projects is lewis.j.bamford@gmail.com.
 
 ## [AutomaTTim](https://github.com/l-bamf/automaTTim)
 
-Automating the process of entering TimTam's promotional competition and using this automation to exploit better odds during certain parts of the day.
+Automating the process of entering TimTam's promotional raffle competition and using this automation to exploit better odds during certain parts of the day.
 
 ## AskPCOS
 
